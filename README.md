@@ -1,6 +1,6 @@
-# React Playground
+# React Image Upload
 
-A simple React application scaffold for experimenting with React components.
+A React component for handling image uploads.
 
 Install it
 ----------
